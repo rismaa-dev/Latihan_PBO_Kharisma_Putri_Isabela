@@ -4,7 +4,7 @@ class Database {
     private $host = "localhost";
     private $username = "root";
     private $password = "";
-    private $db_name = "DB_SIMULASI_PBO_KELAS_KharismaPutriIsabela"; // Sesuaikan nama database Anda
+    private $db_name = "db_simulasi_pbo_trpl_1-a_kharisma_putri_isabela"; // Sesuaikan nama database Anda
     public $conn;
 
     public function getConnection() {
